@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn0I32pYA2r4AC-NuX3TQKk0fFtXrCmeyBcw&s" />
+</p>
 
-<!--
-**yanalexandre293/yanalexandre293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏽 **Olá, me chamo Yan**  
+Sou formado em **Análise e Desenvolvimento de Sistemas**, em busca de experiência profissional na área de desenvolvimento. Sou proficiente em **C#**, **JavaScript**, **Next.js**, mas sempre disposto a aprender e me aprofundar em novas tecnologias! 💪🏽
 
-Here are some ideas to get you started:
+🔭 **Atualmente desenvolvendo**: Ambiente Virtual de Aprendizado para jogos eletrônicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 **Ferramentas e Tecnologias**
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🚀 **Projetos**
+
+- **Ambiente Virtual de Aprendizado de Jogos Eletrônicos**: Desenvolvendo uma plataforma interativa para treinamento em jogos eletrônicos.  
+
+### 📫 **Contato**
+- WhatsApp: 41 99814-6639
+- [LinkedIn](https://www.linkedin.com/in/yan-alexandre-214434247/)  
